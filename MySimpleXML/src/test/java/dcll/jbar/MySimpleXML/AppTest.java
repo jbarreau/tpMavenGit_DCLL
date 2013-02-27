@@ -35,11 +35,19 @@ public class AppTest
     {
         assertTrue( true );
     } 
-    
+
     /**
      * Rigourous Test :-)
      */
     public void testXXX()
+    {
+        assertTrue( true );
+    }
+    
+    /**
+     * Rigourous Test :-)
+     */
+    public void testYYY()
     {
         assertTrue( true );
     }

@@ -14,4 +14,8 @@ public class App
     public void XXX(){
     	System.out.println("fonctionnalité XXX");
     }
+    
+    public void YYY(){
+    	System.out.println("fonctionnalité YYY");
+    }
 }
