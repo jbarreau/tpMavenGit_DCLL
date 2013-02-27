@@ -14,7 +14,7 @@ public class App
         ap.YYY();
     }
     
-    public void XXX(){
+    public static void XXX(){
     	System.out.println("fonctionnalité XXX");
     }
     

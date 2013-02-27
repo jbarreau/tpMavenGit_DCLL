@@ -39,10 +39,10 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testXXX()
+    /*public void testXXX()
     {
         assertTrue( true );
-    }
+    }*/
     
     /**
      * Rigourous Test :-)
