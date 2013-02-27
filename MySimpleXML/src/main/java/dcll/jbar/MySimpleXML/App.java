@@ -7,11 +7,10 @@ package dcll.jbar.MySimpleXML;
 public class App 
 {
     public static void main( String[] args )
-    {
-    	App ap = new App();
+    {	
         System.out.println( "Hello World!" );
-        ap.XXX();
-        ap.YYY();
+        XXX();
+        YYY();
     }
     
     public static void XXX(){
