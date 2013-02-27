@@ -10,8 +10,8 @@ public class App
     {	
         System.out.println( "Hello World!" );
         XXX();
-        YYY();
-    }
+        YYY();  
+    }   
     
     public static void XXX(){
     	System.out.println("fonctionnalité XXX");
