@@ -47,8 +47,8 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testYYY()
+    /*public void testYYY()
     {
         assertTrue( true );
-    }
+    }*/
 }
